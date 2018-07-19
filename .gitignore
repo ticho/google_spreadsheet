@@ -1,0 +1,5 @@
+.rubocop-http---relaxed-ruby-style-rubocop-yml
+Gemfile.lock
+config.json
+db/emails.csv
+db/emails.JSON
